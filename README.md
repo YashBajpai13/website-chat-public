@@ -32,9 +32,9 @@ The project uses Groq for faster inferencing and the ability to use Open Source 
 <li>Explore the website's content with prompts.</li>
 </ol>
 <h3>Screenshots of what the app looks like running locally:</h3>
-![1](https://github.com/YashBajpai13/wecbsite-chat-public/assets/51969095/4a0c08b2-34e8-4bbd-8458-2347cfac36c5)
-![2](https://github.com/YashBajpai13/wecbsite-chat-public/assets/51969095/125ac82e-6626-4467-aeb6-023c9e4babf4)
-![3](https://github.com/YashBajpai13/wecbsite-chat-public/assets/51969095/e74a45aa-084f-4e7b-903a-61b65042f410)
+![alt text](https://github.com/YashBajpai13/website-chat-public/blob/master/Screenshots/1.png?raw=true)
+![alt text](https://github.com/YashBajpai13/website-chat-public/blob/master/Screenshots/2.png?raw=true)
+![alt text](https://github.com/YashBajpai13/website-chat-public/blob/master/Screenshots/1.png?raw=true)
 <br>
 <h5>Current Limitations: </h5>
 <ul>

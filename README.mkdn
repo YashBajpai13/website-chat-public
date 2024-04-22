@@ -42,5 +42,5 @@ The project uses Groq for faster inferencing and the ability to use Open Source 
 <h5>Current Limitations: </h5>
 <ul>
 <li>The website doesn't remember previous prompts. </li>
-<li>There is no persistance of previous chats.</li>
+<li>There is no persistence of previous chats.</li>
 </ul>
